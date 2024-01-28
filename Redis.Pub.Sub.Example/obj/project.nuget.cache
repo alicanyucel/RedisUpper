@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QkmGLQaHPE0cKXDOiMOCyXyOQ2heEF7Z1QjOtzMT47EOl57U+KVJGvbnHbX2U7qr7TKMWvZA75rRX57tVSXynQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\HOBİ\\3 - Redis\\3 - Redis\\Redis\\Redis.Pub.Sub.Example\\Redis.Pub.Sub.Publisher.Example.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.2\\pipelines.sockets.unofficial.2.2.2.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\stackexchange.redis\\2.6.90\\stackexchange.redis.2.6.90.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
